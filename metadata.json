@@ -1,0 +1,8 @@
+{
+  "name": "PixelForge AI Studio",
+  "description": "A comprehensive creative suite for image editing, AI generation, video creation, and ID photo formatting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
